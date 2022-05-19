@@ -1,0 +1,8 @@
+C:\Users\Me\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.exe.config
+C:\Users\Me\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.exe
+C:\Users\Me\source\repos\Minecraft\Minecraft\bin\Debug\Minecraft.pdb
+C:\Users\Me\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.AssemblyReference.cache
+C:\Users\Me\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\Me\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.exe
+C:\Users\Me\source\repos\Minecraft\Minecraft\obj\Debug\Minecraft.pdb
